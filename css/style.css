@@ -1,0 +1,11 @@
+.row{
+	margin-bottom: 50px;
+	text-align: center;
+}
+.BOX{
+	align-self: center;
+border-style: solid;
+border-color: black;
+border-radius: 10px;
+	padding: 10px;
+}
