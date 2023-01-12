@@ -1,3 +1,1 @@
-# FreeApis
-Update 58 wilayas of
-Algeria
+List 58 wilayas 
