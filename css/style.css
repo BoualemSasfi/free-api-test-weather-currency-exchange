@@ -1,7 +1,8 @@
 body{
-background-color:Lavender;	
+        background-color:Lavender;	
 }
-.row{
+.row{ 
+	background-color:white;
 	margin-bottom: 50px;
 	text-align: center;
 }
