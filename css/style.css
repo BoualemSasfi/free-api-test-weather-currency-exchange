@@ -1,9 +1,12 @@
 body{
-        background-color:Lavender;	
+    background-color:Lavender;	
+}
+.container{
+	margin-top: 50px;
 }
 .row{ 
 	background-color:white;
-        text-align: center;
+    text-align: center;
 	margin-top: 50px;
 }
 .BOX{
