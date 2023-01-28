@@ -3,8 +3,8 @@ body{
 }
 .row{ 
 	background-color:white;
+        text-align: center;
 	margin-bottom: 50px;
-	text-align: center;
 	margin-top: 50px;
 }
 .BOX{
